@@ -1,5 +1,7 @@
 # Установка.
-Закинуть файлы bbc.lua и ads.json в папку "MyHome Launcher/bin/SAMP/moonloader/"
+1) Установить MoonLoader - https://www.blast.hk/moonloader/download.php При установке, СТАВЬТЕ ВСЕ ГАЛОЧКИ, и путь установки выбирайте: "MyHome Launcher/bin/SAMP"
+3) Закинуть файлы bbc.lua и ads.json в папку "MyHome Launcher/bin/SAMP/moonloader/"
+4) Отключить CEF интерфейс, в настройках лаунчера.
 
 
 # Как работает скрипт.
